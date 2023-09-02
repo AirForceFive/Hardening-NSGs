@@ -1,5 +1,4 @@
 # Hardening Network Security Groups (NSGs) in Azure
-![Azure Network Security](https://i.imgur.com/ZWxe03e.jpg)
 
 ## Introduction
 
